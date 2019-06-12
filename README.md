@@ -7,7 +7,7 @@ HTML used for frontend part  and JSP use for backend  part.
 
 3)After that copy css file and import upon the folders.  
 
-4)Here am using  ORACLE 10G XE  DATA BASE.
+4)Here i am using  ORACLE 10G XE  DATA BASE.
 
 IF YOU WANT LOGIN AND  REGISTRATION PAGE CODE GO THROUGH MY CHANNEL AND WATCH ALL THE VIDEOS YOU CAN EASILY UNDERSTAND.
 
